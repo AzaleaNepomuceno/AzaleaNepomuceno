@@ -24,14 +24,14 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 
 ##  Skill Sets
 
-### Programming
+Programming
 - Java
 - JavaScript
 
-### Databases
+Databases
 - IBM DB2 Cloud
 
-### Tools & Technologies
+Tools & Technologies
 - Lucidchart
 - Eclipse
 - IntelliJ IDEA
