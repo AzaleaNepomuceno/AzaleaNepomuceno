@@ -1,8 +1,8 @@
 # Hi there, I'm Azalea V. Nepomuceno 👋
 
 ##  About Me
-I am **Azalea V. Nepomuceno**, with a flair for coding and database management skills.  
-I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
+I am **Azalea V. Nepomuceno**, an aspiring IT professional passionate about software development and database management.  
+I enjoy learning new technologies, solving challenging problems, and building efficient digital solutions that improve user experiences and I am eager to harness my skills and keep exploring the world of IT.
 
 ---
 
